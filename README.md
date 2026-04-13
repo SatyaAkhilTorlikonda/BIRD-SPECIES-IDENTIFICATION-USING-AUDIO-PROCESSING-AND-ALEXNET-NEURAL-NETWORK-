@@ -1,0 +1,2 @@
+# BIRD-SPECIES-IDENTIFICATION-USING-AUDIO-PROCESSING-AND-ALEXNET-NEURAL-NETWORK-
+Reconstructed the STFT-AlexNet pipeline from my published research. Developed an end-to-end system transforming raw audio into spectrograms for deep learning. Focused on noise reduction and 8-layer CNN architecture to bridge bioacoustics and computer vision, achieving high precision in avian vocalization classification.
